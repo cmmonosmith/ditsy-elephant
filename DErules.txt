@@ -1,0 +1,22 @@
+¦                                                              ¦
+¦                 Ditsy Elephant playing rules                 ¦
+¦                      by Chris Monosmith                      ¦
+¦_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ¦
+
+NOTE: be sure "WORD WRAP" is checked under the Edit menu up top
+      if in Notepad
+
+  First off, the game will set a deck of cards, and then shuffle them randomly. It will then deal out to 4 players, one of which is you, 13 cards each, and put them in order from lowest value to highest value. In Ditsy Elephant, the values go like this:
+3-4-5-6-7-8-9-10-J-Q-K-A-2.
+  Then, the first player to go is the player with the 3 of spades.
+  When it is your turn, if you can play, you play 1-4 cards (all of the same value) with their value being greater than the cards played just before you, and a number of cards greater than or equal to the number of cards played just before you. In other words, if someone played 2 fives, you would have to play 2, 3 or 4 of any cards 6 or higher with equal values, such as 3 sevens. If you can't do that, you must pass (press diamond and any key with no cards selected). There is no difficulty level, because I just made the computers play the same strategies that my friends use, and they play alright, so you CAN lose...
+
+  Here I will try to relay some strategy to you, but it may be difficult. Read it carefully:
+  You want to get rid of pretty much all your singles ( one-of-a-kind values in your hands, such as 1 seven or 1 four ), especially the low ones, whenever you can. If you have a lot of them, you're probably screwed. If you have a single 2, try to save it, because you can use it later to "ditch" some of your lower cards, or get rid of them. When you play a 2 or any other cards that "go around" ( when all the other players pass after you play ), you can play anything you want. You want to dump your lower singles if you have any. If you're going to play a card other than a two, play all of them. If you have 3 twos for example, it would be a good idea to try and dump after playing a single 2, then saving the other two for later, when you might win. You want to save most of the high cards until near the end of the game, so it will be easier to "go out," or run out of cards. Now, there is some logic used in this as well. If you and another person are the last two players, and he/she only has one card and you have 3 for example, and they are a double and single, for example, and it is your turn, for example ( I know, I know, just read it... ), of course you will play the double first, so they can't play, no matter what they have. If you don't do that, you really missed something in here.
+  That's the best I can do for now. It may not seem like strategy, so instead we'll call it "playing tips". It would take too long to explain any more. You just have to learn over time, so go play the game some!
+  Okay... when three people have gone out and people have gotten 1st, 2nd, 3rd and last places, and you are going to play again, something happens. The cards are shuffled, dealt, and organized. Then: 1st place gets the two best cards from last place, and gives last place the 2 worst cards in their hand. Then 2nd place takes the 1 best card from 3rd and gives 3rd their 1 worst card. Then they play again. Those are kind of like prizes and punishments for winning or losing. And there you have it.
+
+Those are the rules you must follow, and the rules as I learned them, for Ditsy Elephant. Enjoy!
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Copyright © 2002 by Legacy Calcware (eh... not really, freeware [w00t])
+Please read Section 3 of the DEreadme.txt file for details
