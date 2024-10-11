@@ -1,7 +1,7 @@
-¦                                                              ¦
-¦                 Ditsy Elephant playing rules                 ¦
-¦                      by Chris Monosmith                      ¦
-¦_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ¦
+|                                                              |
+|                 Ditsy Elephant playing rules                 |
+|                      by Chris Monosmith                      |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
 
 NOTE: be sure "WORD WRAP" is checked under the Edit menu up top
       if in Notepad
@@ -18,5 +18,5 @@ NOTE: be sure "WORD WRAP" is checked under the Edit menu up top
 
 Those are the rules you must follow, and the rules as I learned them, for Ditsy Elephant. Enjoy!
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-Copyright © 2002 by Legacy Calcware (eh... not really, freeware [w00t])
+Freeware 2002 by Legacy Calcware
 Please read Section 3 of the DEreadme.txt file for details

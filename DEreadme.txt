@@ -1,7 +1,7 @@
-¦                                                               ¦
-¦              Ditsy Elephant version 1.00 Final                ¦
-¦                     by  Chris Monosmith                       ¦
-¦_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _¦
+|                                                               |
+|              Ditsy Elephant version 1.00 Final                |
+|                     by  Chris Monosmith                       |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
 
 NOTE: be sure "WORD WRAP" is checked under the Edit menu up top
       if in Notepad
@@ -50,7 +50,7 @@ me know about any bugs or any other problems. If you have any good and relevant 
 
 Section 3........Legal Information
 
-This game is copyrighted © by Legacy Calcware. Do not distribute any of the files that came in the file DE_final.zip or the DE_final.zip file as a whole. Permission is reserved for Legacy Calcware, calc.org and ticalc.org only. If you would like to put the game on your website for distribution, e-mail me. And lastly, you most definately cannot sell any of the files in the DE_final.zip file or the DE_final.zip file itself, either.
+This game is just freeware, created by Legacy Calcware. Share freely as in speech and beer.
 
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
@@ -84,5 +84,5 @@ July 9 2002  : Second and final puclic release, version 1.00 FINAL. No bugs, goo
 June ?? 2002 : First public release, version 1.00 beta 1. If all goes well and I get no                 bug reports, I'll fix anything I don't like and release version 1.00 full.
 
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-Copyright © 2002 by Legacy Calcware
+Freeware 2002 by Legacy Calcware
 Please read Section 3 for details
